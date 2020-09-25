@@ -1,3 +1,6 @@
 *.user
 *.suo
 *.nes
+/source/.vs/
+/source/Bin/
+/source/FamicomEmulator/Build/
